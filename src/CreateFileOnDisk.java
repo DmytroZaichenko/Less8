@@ -55,6 +55,11 @@ public class CreateFileOnDisk {
         }
     }
 
+    private static void crFile1(File folder, String nameFile){
+        nameFile = folder.getAbsolutePath() + File.separator + nameFile;
+
+    }
+
 }
 
 
