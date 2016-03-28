@@ -1,8 +1,7 @@
+package WorkWithFile;
+
 import java.io.File;
 
-/**
- * Created by admin on 28.02.2016.
- */
 public class PathToFile {
 
     public static void main(String[] args) {

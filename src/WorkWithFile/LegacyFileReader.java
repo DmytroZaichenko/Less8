@@ -1,3 +1,5 @@
+package WorkWithFile;
+
 import java.io.FileInputStream;
 import java.io.IOException;
 

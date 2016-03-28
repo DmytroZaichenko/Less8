@@ -1,3 +1,5 @@
+package WorkWithFile;
+
 import sun.misc.InvalidJarIndexException;
 
 import java.io.*;
